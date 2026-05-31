@@ -13,6 +13,22 @@
 
 
 ---
+---
+
+## 📂 Files in this Repository
+- `design.sv` - Main digital clock module in Verilog HDL
+- `testbench.sv` - Testbench for functional verification
+- `Task1_Documentation.pdf` - Task 1 Complete Documentation with Source Code, Pin Configuration, Testbench & Simulation Results
+- `waveform.png` - Simulation output waveform from EDA Playground
+
+---
+
+## 📌 PROJECT OVERVIEW & SCOPE
+---
+
+---
+
+## 📌 PROJECT OVERVIEW & SCOPE
 
 ## 📌 PROJECT OVERVIEW & SCOPE
 ### **Project Name:** 
