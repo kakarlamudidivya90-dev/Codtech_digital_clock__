@@ -174,6 +174,10 @@ Simulation completed from 00:00:00 to 00:01:40.
 ### 1. Waveform Output
 ![EPWave Waveform](Screenshot_20260530_193017.jpg)
 
+### **Task 1 Documentation**
+[Download Task 1 PDF](Task1_Documentation.pdf)
+
+
 
 
 
