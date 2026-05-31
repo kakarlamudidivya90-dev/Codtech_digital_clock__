@@ -2,6 +2,7 @@
 24-hour digital clock using verilog
 # CODTECH IT SOLUTIONS INTERNSHIP TASK
 
+
 ## 👤 INTERN INFORMATION
 * **Full Name:**Kakarlamudi divya 
 * **Intern ID:** CITS998
@@ -22,12 +23,6 @@
 
 ---
 
-## 📌 PROJECT OVERVIEW & SCOPE
----
-
----
-
-## 📌 PROJECT OVERVIEW & SCOPE
 
 ## 📌 PROJECT OVERVIEW & SCOPE
 ### **Project Name:** 
