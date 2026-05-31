@@ -167,20 +167,18 @@ endmodule
 
 ## 📊 SIMULATION RESULTS & OUTPUT IMAGES
 
-170  ### **1. Console Output Log Screen Shot**
-  ## Simulation Results
+ ### **1. Console Output Log Screen Shot**
   
- ## **Task 1 Documentation**
-  [Download PDF](Task1_Documentation.pdf)
-  
-  Simulation completed from 00:00:00 to 00:01:40.
+## **Console Output
+![Simulation Log](Screenshot_20260531_112701.jpg)
 
- ### **2. Timing Waveforms Screen Shot (EPWave)**
-  ## Simulation Results
- 
- ### Waveform Output
- ![EPWave Waveform](waveform.jpg)
+Simulation completed from 00:00:00 to 00:01:40.
 
+### **2. Timing Waveforms Screen Shot (EPWave)**
+## Simulation Results
+
+### 1. Waveform Output
+![EPWave Waveform](waveform.jpg)
 
 
 
