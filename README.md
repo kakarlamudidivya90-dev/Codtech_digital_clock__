@@ -170,7 +170,7 @@ endmodule
  ### **1. Console Output Log Screen Shot**
   
 ## **Console Output
-![Simulation Log](Screenshot_20260531_112701_193017.jpg)
+![Simulation Log](Screenshot_20260531_112701.jpg)
 
 Simulation completed from 00:00:00 to 00:01:40.
 
@@ -178,7 +178,7 @@ Simulation completed from 00:00:00 to 00:01:40.
 ## Simulation Results
 
 ### 1. Waveform Output
-![EPWave Waveform](Screenshot_20260530.jpg)
+![EPWave Waveform](Screenshot_20260530_193017.jpg)
 
 
 
