@@ -3,8 +3,8 @@
 # CODTECH IT SOLUTIONS INTERNSHIP TASK
 
 ## 👤 INTERN INFORMATION
-* **Full Name:** [Enter Your Full Name Here]
-* **Intern ID:** [Enter Your Codtech Intern ID, e.g., CT08VLSIxxxx]
+* **Full Name:**Kakarlamudi divya 
+* **Intern ID:** CITS998
 * **Domain Name:** VLSI Design Engineer
 * **No. of Weeks / Duration:** 4 Weeks
 * **Project Name:** 24-Hour Digital Clock Circuit Design and Simulation
