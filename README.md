@@ -8,6 +8,9 @@
 * **Domain Name:** VLSI Design Engineer
 * **No. of Weeks / Duration:** 4 Weeks
 * **Project Name:** 24-Hour Digital Clock Circuit Design and Simulation
+* **EDA Playground Link :https://edaplayground.com/x/fNit
+  
+
 
 ---
 
